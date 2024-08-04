@@ -1,0 +1,15 @@
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/learn_1
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/animatic.woff
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logoPrev.png
+/home/iantsogod/Graven/learn_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
